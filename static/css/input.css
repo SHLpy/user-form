@@ -1,0 +1,26 @@
+/* Add your custom CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+h1 {
+    color: #007bff;
+}
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+label {
+    font-weight: bold;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.error-message {
+    color: #dc3545;
+    font-size: 0.8rem;
+    margin-top: 5px;
+}
